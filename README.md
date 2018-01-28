@@ -13,7 +13,7 @@
 
 模型列表
 -------
--  [Boosting和梯度Boosting](http://blog.csdn.net/yueyedeai/article/details/15205165}
+-  [Boosting和梯度Boosting](http://blog.csdn.net/yueyedeai/article/details/15205165)
 -  [梯度提升树GBDT(Gradient Boosting Decision Tree)](http://blog.csdn.net/a819825294/article/details/51188740)
     
 -  [XGBoost(eXtreme Gradient Boosting)](http://blog.csdn.net/totoro1745/article/details/53328725?utm_source=itdadao&utm_medium=referral)
