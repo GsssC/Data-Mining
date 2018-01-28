@@ -12,6 +12,7 @@
 -------
 -  [寒武纪の盐城车牌预测数据初探 之 三](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.71271025sF3zRk&raceId=231641&postsId=3809)
 -  [盐城汽车上牌量预测Baseline](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.3a3de22fpzg09j&raceId=231641&postsId=3918)
+
 模型列表
 -------
 -  [Boosting和梯度Boosting](http://blog.csdn.net/yueyedeai/article/details/15205165)
