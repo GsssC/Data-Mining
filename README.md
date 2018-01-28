@@ -9,11 +9,13 @@
 
 论坛例子
 -------
--  [寒武纪の盐城车牌预测数据初探 之 三](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.71271025sF3zRk&raceId=231641&postsId=3809]
+-  [寒武纪の盐城车牌预测数据初探 之 三](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.71271025sF3zRk&raceId=231641&postsId=3809)
 
 模型列表
 -------
--  [梯度提升树GBDT(Gradient Boosting Decision Tree)](http://blog.csdn.net/a819825294)
+-  [Boosting和梯度Boosting](http://blog.csdn.net/yueyedeai/article/details/15205165}
+-  [梯度提升树GBDT(Gradient Boosting Decision Tree)](http://blog.csdn.net/a819825294/article/details/51188740)
+    
 -  [XGBoost(eXtreme Gradient Boosting)](http://blog.csdn.net/totoro1745/article/details/53328725?utm_source=itdadao&utm_medium=referral)
 -  [lightGBM(Gradient Boosting Machine)](http://blog.csdn.net/niaolianjiulin/article/details/76584785)
 
